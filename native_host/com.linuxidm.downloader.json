@@ -1,0 +1,9 @@
+{
+  "name": "com.linuxidm.downloader",
+  "description": "Linux IDM Download Manager",
+  "path": "/home/mirza/Desktop/linux-idm/native_host/host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/"
+  ]
+}
